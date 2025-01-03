@@ -1,0 +1,5 @@
+const PostPage_vue_vue_type_style_index_0_scoped_293365ef_lang = ".post[data-v-293365ef]{align-items:center;background-color:#393e46;display:flex;flex-direction:column;gap:1.5svh;justify-content:center;padding:5svh;width:100%}h1[data-v-293365ef]{color:#fff}.post_input[data-v-293365ef]{border:1px solid #ccc;border-radius:18px;padding:10px;width:60svw}.post_input--message[data-v-293365ef]{height:80px;max-height:auto;resize:none}.post_button[data-v-293365ef]{align-items:end;display:flex;flex-direction:column;width:55svw}button[data-v-293365ef]{background-color:#fff;border:none;border-radius:18px;color:#000;cursor:pointer;font-size:1.2rem;padding:10px;width:30svw}.is-invalid[data-v-293365ef]{border-color:#ff4646}.error-messages[data-v-293365ef]{color:#ff6767}.success-message[data-v-293365ef]{color:#67ff67;margin-top:10px}@media (min-width:768px){.post_input[data-v-293365ef]{max-width:30svw}.post_button[data-v-293365ef]{width:30svw}button[data-v-293365ef]{width:12svw}}";
+export {
+  PostPage_vue_vue_type_style_index_0_scoped_293365ef_lang as default
+};
+//# sourceMappingURL=entry-styles-3.mjs-B6Up5LJs.js.map
