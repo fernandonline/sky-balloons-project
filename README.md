@@ -1,5 +1,5 @@
 <img src="captura-de-tela.png">
-<img src="captura-de-tela-mobile.png">
+<img width=50% src="captura-de-tela-mobile.png">
 
 esse projeto simulou um ambiente em produção real, com frontend criado em nuxt, framework SSR baseado em Vue, o backend foi escrito em Node com typescript usando express e prisma.
 durante o periodo de 26/12/2024 a 02/01/2025 o projeto esteve ativo com frontend pelo Vercel, e o backend e banco de dados pelo Render.
